@@ -97,7 +97,9 @@ This project provides a simple yet powerful demonstration of how inflation respo
 ## Contribution & Credits
 
 Project Lead: Sai Sarat Chandra
+
 Data Science & Econometrics Enthusiast
+
 Focus: Causal Inference, Policy Modeling, and AI for Social Impact
 
 
